@@ -13,7 +13,7 @@ let resta = primerNum - segundoNum;
 let multiplicar = primerNum * segundoNum;
 let dividir = primerNum / segundoNum;
 
-//Creo función para realizar lso cálculos y mostrar los datos
+//Creo función para realizar los cálculos y mostrar los datos
 function calculadora() {
     document.write(`<br>
     ${primerNum} + ${segundoNum} = ${suma} <br>
